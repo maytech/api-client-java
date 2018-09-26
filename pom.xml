@@ -4,7 +4,7 @@
 
     <groupId>com.github.maytech</groupId>
     <artifactId>quatrix-api-client</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <name>Quatrix Api Client</name>
     <description>Quatrix api client library</description>
     <url>https://github.com/maytech/api-client-java</url>
@@ -28,7 +28,7 @@
         <connection>scm:git:git://github.com/maytech/api-client-java.git</connection>
         <developerConnection>scm:git:git@github.com:maytech/api-client-java.git</developerConnection>
         <url>https://github.com/maytech/api-client-java</url>
-        <tag>quatrix-api-client-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
